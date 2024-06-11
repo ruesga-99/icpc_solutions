@@ -2,43 +2,29 @@
 
 using namespace std;
 
-int countDivisors (int N, int T) {
-    int count(0);
+void solve (int n, int p) {
+    int  temp, max(0);
 
-    // Algoritmo basado en la premisa de los divisores en pares
-    for (int i(1); i * i <= T; i++) {
-        if (T % i == 0) {
-            // Verificación del divisor chico
-            if (i <= N) {
-                count++;
-            }
-            // Verificación del divisor grande
-            if (T / i <= N && i != T / i) {
-                count++;
+    for (int i(0); i < n; i++) {
+        cin >> temp;
+
+        if (temp > max && temp <= p) {
+            max = temp;
+            if (max == p) {
+                break;
             }
         }
     }
-    return count;
-}
 
-void solve (int N, int T) {
-    if (T == 1) {
-        // Si el tiempo es 1 todos los relojes están sincronizados
-        cout << N << endl;
-    } else {
-        cout << countDivisors (N, T-1);
-    }
+    cout << max;
 }
 
 int main () {
-    int N, T, Q;
+    int n, p;
 
-    cin >> Q;
+    cin >> n >> p;
 
-    for (int i(0); i < Q; i++) {
-        cin >> N >> T;
-        solve(N, T);
-    }
-
+    solve (n, p);
+    
     return 0;
 }
