@@ -49,6 +49,8 @@ Each contest round is organized into a directory named with the corresponding ye
 
 ## Contributions
 
+While C++ is the preferred language for problem solutions, Python and Java are also allowed.
+
 To contribute a solution:
 
 1. Clone the repository.
