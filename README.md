@@ -6,6 +6,10 @@ Welcome to our team's repository for ICPC problem solutions!
 
 This repository is dedicated to storing and sharing our solutions to problems presented in ICPC (International Collegiate Programming Contest) programming competitions. Each solution is organized by category and problem, making it easy to access and review. Each problem has its own directory with solutions in different programming languages and an explanatory README file.
 
+## Included
+- [ICPC 2024: "Gran Premio de México Primera Fecha"](https://vjudge.net/contest/628837)
+- ICPC 2024: "Gran Premio de México Segunda Fecha"
+
 ## Contributors
 
 This repository is a collaborative effort. We thank all team members for their contributions:
@@ -28,6 +32,20 @@ This repository is a collaborative effort. We thank all team members for their c
 - [Ruesga](https://github.com/ruesga-99)
 - [Daniel](https://github.com/DarchoG)
 - [Paco](https://github.com/SlippedWace)
+
+## Structure
+```plaintext
+2024_1/
+├── problem_A/
+│   └── A.cpp
+├── problem_C/
+├── problem_K/
+2024_2/
+├── .gitignore
+└── README.md
+```
+
+Each contest round is organized into a directory named with the corresponding year and round. Within each contest directory, there are subdirectories for each problem. Inside these problem subdirectories, you will find various solutions.
 
 ## Contributions
 
