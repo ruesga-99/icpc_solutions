@@ -54,7 +54,7 @@ While C++ is the preferred language for problem solutions, Python and Java are a
 To contribute a solution:
 
 1. Clone the repository.
-2. Create a new branch for your solution.
+2. Create a new subdirectory for your solution if necessary.
 3. Add your solution in the corresponding directory.
 4. Update the problem's README.md file with a brief description of your solution.
 5. Submit a pull request for review.
