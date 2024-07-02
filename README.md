@@ -9,6 +9,7 @@ This repository is dedicated to storing and sharing our solutions to problems pr
 ## Included
 - [ICPC 2024: "Gran Premio de México Primera Fecha"](https://vjudge.net/contest/628837)
 - ICPC 2024: "Gran Premio de México Segunda Fecha"
+- ICPC 2024: "Gran Premio de México Tercera Fecha" (Pending)
 
 ## Contributors
 
