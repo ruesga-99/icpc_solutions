@@ -6,6 +6,8 @@ Welcome to our team's repository for ICPC problem solutions!
 
 This repository is dedicated to storing and sharing our solutions to problems presented in ICPC (International Collegiate Programming Contest) programming competitions. Each solution is organized by category and problem, making it easy to access and review. Each problem has its own directory with solutions in different programming languages and an explanatory README file.
 
+Some other solutions to different problems (Hackerank, Vjudge, LeetCode, etc) used for practice and learning purposes may also be added to this repository.
+
 ## Included
 - [ICPC 2024: "Gran Premio de México Primera Fecha"](https://vjudge.net/contest/628837)
 - ICPC 2024: "Gran Premio de México Segunda Fecha"
