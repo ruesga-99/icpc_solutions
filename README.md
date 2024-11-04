@@ -34,7 +34,7 @@ This repository is a collaborative effort. We thank all team members for their c
 
 - [Ruesga](https://github.com/ruesga-99)
 - [Daniel](https://github.com/DarchoG)
-- [Paco](https://github.com/SlippedWace)
+- [Paco](https://github.com/SlippedWave)
 
 ## Structure
 ```plaintext
