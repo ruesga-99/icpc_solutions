@@ -33,7 +33,7 @@ This repository is a collaborative effort. We thank all team members for their c
 ```
 
 - [Ruesga](https://github.com/ruesga-99)
-- [Daniel](https://github.com/DarchoG)
+- [Daniel](https://github.com/Pathinker)
 - [Paco](https://github.com/SlippedWave)
 
 ## Structure
